@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grewal16" alt="grewal16" /></a> </p>
 
-<p align="left"> <a href="www.linkedin.com/in/1amandeep6" target="blank"><img src="https://img.shields.io/twitter/follow/sanikaa_21?logo=twitter&style=for-the-badge" alt="grewal16" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/1amandeep6" target="blank"></p>
 
 - 🌱 I’m currently learning **Backend , DS/Algo , Competitive Programming**
 
