@@ -3,29 +3,29 @@
 <h1 align="center">Hi 👋, I'm Amandeep</h1>
 <h3 align="center">Software Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sanika2103&label=Profile%20views&color=0e75b6&style=flat" alt="sanika2103" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=grewal16&label=Profile%20views&color=0e75b6&style=flat" alt="grewal16" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanika2103" alt="sanika2103" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=grewal16" alt="grewal16" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/Sanikaa_21" target="blank"><img src="https://img.shields.io/twitter/follow/sanikaa_21?logo=twitter&style=for-the-badge" alt="sanikaa_21" /></a> </p>
+<p align="left"> <a href="www.linkedin.com/in/1amandeep6" target="blank"><img src="https://img.shields.io/twitter/follow/sanikaa_21?logo=twitter&style=for-the-badge" alt="grewal16" /></a> </p>
 
 - 🌱 I’m currently learning **Backend , DS/Algo , Competitive Programming**
 
 
 
-- 💬 Ask me about **C++ , Front-end Development**
+- 💬 Ask me about **Openshift, **Jenkins, **React, **Python, ** N8n, **C++ , Front-end Development**
 
 - 📫 How to reach me **deep2307799@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sanikaa_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sanikaa_21" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sanika-patil21/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sanika-patil21/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/sanika" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sanika" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/1amandeep6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/1amandeep6" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/sanika_02" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sanika_21" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/sanikapatil1321" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sanikapatil1321" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/sanika_21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sanika_21" height="30" width="40" /></a>
-<a href="https://discord.gg/sanika#3142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="sanika#3142" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
